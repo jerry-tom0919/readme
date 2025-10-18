@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
-<h3 align="center">spiring data analyst</h3>
+<h3 align="center">Aspiring data analyst</h3>
 
 - 🌱 I’m currently learning *Power bi ,ux designing*
 
